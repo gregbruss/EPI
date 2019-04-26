@@ -3,22 +3,6 @@ My personal coding notes for working through the incredible Elements of Programm
 
 ## List of Topics
 
-Primitives
-
-Arrays
-
-Strings
-
-Linked Lists
-
-Stacks and Queues
-
-Binary Trees
-
-Heaps
-
-Searching
-
 Hash Tables
 
 Sorting
@@ -34,3 +18,13 @@ Greedy Algorithms
 Graphs
 
 Parallel Computing
+
+Linked Lists
+
+Stacks and Queues
+
+Binary Trees
+
+Heaps
+
+Searching
